@@ -35,11 +35,23 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A godlie, zealous, and profitable sermon vpon the second chapter of Saint Iames. Preached at London,
+
+1. ¶The ſecond Chapter of Saint Iames,
+verſe. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23
+24. 25. 26.
+
 #####Body#####
-A godlie, zealous, and profitable sermon vpon the second chapter of Saint Iames. Preached at London,
+
+1. The ſecond Chapter of
+Saint Iames, verſe. 14. 15. 16. 17.
+18. 19. 20. 21. 22. 23. 24. 25. 26.
+
 #####Back#####
-A godlie, zealous, and profitable sermon vpon the second chapter of Saint Iames. Preached at London,
+¶Imprinted at London
+by Thomas Eaſt for Tobie
+Cooke, dwelling at the
+Tigers head in Paules
+Churchyar
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
